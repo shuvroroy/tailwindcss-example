@@ -5,7 +5,9 @@
 	<div class="flex items-center justify-center h-screen bg-red-lightest">
 		<div class="bg-white shadow-lg rounded-lg" style="width: 45rem !important;">
 			<div class="flex">
-				<img class="w-full rounded hidden md:block" src="https://tailwindcss.com/img/card-top.jpg" alt="Album Pic">
+				<div class="hidden md:block">
+					<img class="w-full rounded" src="https://tailwindcss.com/img/card-top.jpg" alt="Album Pic">
+				</div>
 				<div class="w-full p-8">
 					<div class="flex justify-between">
 						<div>

@@ -13,3 +13,4 @@
 
 Route::view('/', 'welcome');
 Route::view('/player', 'player');
+Route::view('/stripeform', 'stripeform');

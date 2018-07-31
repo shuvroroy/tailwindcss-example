@@ -8,7 +8,8 @@
             With Vue.
         </h1>
         <ul class="list-reset mt-6">
-        	<li class="text-blue text-xl">1. <a href="/player" class="no-underline text-blue">Audio Player</a></li>
+            <li class="text-blue text-xl">1. <a href="/player" class="no-underline text-blue hover:underline">Audio Player</a></li>
+        	<li class="text-blue text-xl">2. <a href="/stripeform" class="no-underline text-blue hover:underline">Stripe Partner Form</a></li>
         </ul>
     </div>
 @endsection
